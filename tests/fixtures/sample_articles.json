@@ -1,0 +1,42 @@
+[
+  {
+    "id": "real_1",
+    "title": "Local Library Opens New Reading Program for Children",
+    "content": "The Springfield Public Library announced today the launch of their new summer reading program. The initiative will provide free books and activities for children aged 5-12 throughout the summer months. Library director Sarah Johnson stated that the program aims to prevent summer learning loss and encourage literacy development. 'We've seen great success with similar programs in neighboring communities,' Johnson explained. The program will run from June through August, with weekly themed activities including storytelling sessions and craft workshops. Parents can register their children starting next Monday at the main library branch or online through the library's website.",
+    "source": "Springfield Daily News",
+    "is_fabricated": false,
+    "date": "2025-10-29"
+  },
+  {
+    "id": "fake_1",
+    "title": "SHOCKING: Scientists Discover Cats Can Actually Speak Human Language",
+    "content": "In a groundbreaking study that will revolutionize pet ownership forever, researchers at an undisclosed university have proven that cats possess the ability to speak fluent human language. Dr. Anonymous claims that cats have been hiding this ability for thousands of years. The study, which cannot be verified due to 'security reasons', suggests that your cat has been judging your life choices all along. One anonymous cat owner reported: 'My cat told me I need to buy better food.' The research team refuses to release their methodology or data, citing 'potential national security implications.' This discovery could change everything we know about human-animal communication!",
+    "source": "TotallyRealNews.net",
+    "is_fabricated": true,
+    "date": "2025-10-29"
+  },
+  {
+    "id": "real_2",
+    "title": "City Council Approves New Traffic Light Installation",
+    "content": "The Springfield City Council voted 6-2 last night to approve the installation of a new traffic light at the intersection of Main Street and Oak Avenue. The decision comes after months of resident complaints about traffic safety at the busy intersection. Councilwoman Maria Rodriguez stated, 'This intersection has been a concern for safety advocates for over two years.' Installation is expected to begin next month and complete by December. The project, funded through a state transportation grant, will cost approximately $75,000. Traffic studies conducted by the city engineering department showed a 40% increase in accidents at this intersection over the past three years.",
+    "source": "Springfield Tribune",
+    "is_fabricated": false,
+    "date": "2025-10-28"
+  },
+  {
+    "id": "fake_2",
+    "title": "Doctors HATE This One Simple Trick That Cures Everything!",
+    "content": "You won't believe what happens when you combine lemon juice with this common household item! According to secret research that big pharma doesn't want you to see, this miraculous combination can cure cancer, diabetes, and even baldness! Unnamed doctors are reportedly 'furious' that this information is getting out. The treatment involves drinking a mysterious concoction every morning, though the exact ingredients remain classified for your protection. Testimonials from anonymous users claim incredible results, but sadly we cannot verify their identities due to privacy concerns. Order now before the government shuts this down! This breakthrough discovery challenges everything the medical establishment believes!",
+    "source": "HealthSecrets247.com",
+    "is_fabricated": true,
+    "date": "2025-10-27"
+  },
+  {
+    "id": "real_3",
+    "title": "University Research Team Develops New Water Filtration Method",
+    "content": "Researchers at Springfield University have developed an innovative water filtration system that could provide clean drinking water in developing regions. The team, led by Dr. Jennifer Chen from the Environmental Engineering Department, published their findings in the Journal of Environmental Technology last week. The new method uses locally sourced materials and costs 60% less than current filtration systems. 'Our goal was to create a sustainable solution that communities could maintain themselves,' Dr. Chen explained during a press conference yesterday. The research was funded by a three-year grant from the National Science Foundation. Field tests are planned for early 2026 in partnership with international aid organizations.",
+    "source": "University Herald",
+    "is_fabricated": false,
+    "date": "2025-10-26"
+  }
+]
